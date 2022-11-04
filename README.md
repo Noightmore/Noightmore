@@ -1,4 +1,4 @@
-Dobrý den!
+Používám cokoliv, co Jetbrains vytvoří.
 
 ## GitHub Stats & Most Used Languages
 
