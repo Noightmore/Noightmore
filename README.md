@@ -6,7 +6,7 @@ Používám cokoliv, co Jetbrains vytvoří.
   <img align="right" alt="Robert's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noightmore" />
 
 
-<img align="center" alt="GIF" src="https://github.com/Noightmore/Noightmore/blob/main/boogaloo.jpg" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/Noightmore/Noightmore/blob/main/pain.jpg" width="500" height="320" />
 
 <!--
 **Noightmore/Noightmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
